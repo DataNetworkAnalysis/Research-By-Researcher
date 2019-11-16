@@ -107,3 +107,8 @@ venv.bak/
 *.pptx
 *.pdf
 *.docx
+
+# diretorys
+code/
+dataset/
+notebook/
