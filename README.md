@@ -14,9 +14,8 @@ work with all these great folks.
 # Been Kim
 <img src="https://github.com/DataNetworkAnalysis/ResearchByResearcher/blob/master/images/Been%20kim.jpg" alt="BeenKim" width="200"/>
 
-**Introduce to Been Kim**
-I am interested in designing high-performance machine learning methods that make sense
-**to humans**. 
+**Introduce to Been Kim**  
+I am interested in designing high-performance machine learning methods that make sense **to humans**. 
 [Quanta magazine](https://www.quantamagazine.org/been-kim-is-building-a-translator-for-artificial-intelligence-20190110/) 
 described well why I am doing what I am doing. Thank you John Pavlus for writing this piece! [Here](https://www.facebook.com/WiMLWorkshop/photos/a.2187465001269129/1431021626913474/?type=3) is another short writeup about why I care.
 My focus is **building interpretability method for already-trained models** or **building inherently interpretable models**. In particular, I believe the language of explanations should include **higher-level, human-friendly concepts** so that it can make sense to **everyone**.  
